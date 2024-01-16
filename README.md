@@ -1,7 +1,8 @@
 # Nana-s-Portfolio
 ## Project 1-Student Performance Prediction and Course Improvement 
 
-** Aims of the Study **
+**Aims of the Study**
+
 The primary aim of this research study is to evaluate online education data to predict student performance and facilitate course improvement. 
 Objectives of the Study 
 1. To identify how online learning fits into the modern educational environment.
